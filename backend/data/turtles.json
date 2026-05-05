@@ -1,0 +1,42 @@
+[
+  {
+    "id": "TURTLE-001",
+    "name": "Demo Caretta 1",
+    "species": "Caretta caretta",
+    "side": "front-left",
+    "imagePath": "sample-data/turtle1.jpg",
+    "notes": "Açık kaynak görselden oluşturulan demo kayıt."
+  },
+  {
+    "id": "TURTLE-002",
+    "name": "Demo Caretta 2",
+    "species": "Caretta caretta",
+    "side": "right",
+    "imagePath": "sample-data/turtle2.jpg",
+    "notes": "Yüz profili net görülen demo kayıt."
+  },
+  {
+    "id": "TURTLE-003",
+    "name": "Demo Caretta 3",
+    "species": "Caretta caretta",
+    "side": "left",
+    "imagePath": "sample-data/turtle3.jpg",
+    "notes": "Açık kaynak görselden oluşturulan demo kayıt."
+  },
+  {
+    "id": "TURTLE-004",
+    "name": "Demo Caretta 4",
+    "species": "Caretta caretta",
+    "side": "front",
+    "imagePath": "sample-data/turtle4.jpg",
+    "notes": "Yüz bölgesi yakın plan demo kayıt."
+  },
+  {
+    "id": "TURTLE-005",
+    "name": "Demo Caretta 5",
+    "species": "Caretta caretta",
+    "side": "front",
+    "imagePath": "sample-data/turtle5.jpg",
+    "notes": "Açık kaynak görselden oluşturulan demo kayıt."
+  }
+]
